@@ -1,0 +1,435 @@
+body {
+font-family: 'alial','alial black','cursive', sans-serif;
+
+}
+
+a {
+text-decoration: none;
+}
+
+li {
+list-style: none;
+color: black;
+}
+
+
+/* header */
+header {
+height: 70px;
+}
+
+
+header a{
+color:black;
+}
+header .left li{
+float: left;
+padding-right: 20px;
+padding-top: 10px;
+}
+
+
+header .right  {
+float:right;
+padding-left: 10px;
+padding-top: 10px;
+color: #a9a9a9;
+}
+
+#price {
+  margin: 0 20px;
+  font-size: 30px;
+  padding: 0;
+  color: black;
+}
+
+#start {
+  background-color: #ff4500;
+  padding: 7px 25px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+#start a{
+color: white;
+
+}
+
+
+
+
+/* main */
+
+.main {
+  background-image: url(text160712.jpg);
+  height: 550px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main .cover {
+  margin:20px;
+
+}
+
+.main-w {
+background-color: white;
+margin-top: 50px;
+margin-right:70px;
+height: 400px;
+width: 400px;
+border-radius: 2px;
+}
+
+.main-w h1 {
+margin-top: 20px
+}
+
+#himeji {
+  border: solid 1px #a9a9a9;
+  width: 100%;
+  border-radius: 2px;
+  height: 40px;
+}
+
+.howmany {
+  border: solid 1px #a9a9a9;
+  border-radius: 2px;
+  width: 49%;
+height: 40px;
+}
+
+.main h2 {
+font-size: 15px;
+color: #a9a9a9;
+margin-top: 20px;
+margin-bottom: 20px
+}
+
+.main h2 span {
+font-size: 30px;
+color: black;
+
+}
+
+.main a {
+background-color: #ff6347;
+color: white;
+padding: 10px 148px;
+border-radius: 2px;
+
+}
+
+
+
+/* whys */
+
+
+.why {
+margin: 50px auto;
+
+}
+
+.why h1 {
+  font-size: 25px;
+
+}
+
+.why p {
+  color: #696969;
+}
+
+
+
+
+/* steps */
+.steps h1{
+text-align: center;
+font-size: 70px;
+
+}
+
+
+.step {
+margin: 50px auto;
+
+}
+
+.step .far {
+font-size: 40px;
+
+}
+
+.step h2 {
+font-size: 25px;
+
+}
+
+.step p {
+
+  color: #696969;
+}
+
+
+
+
+
+/* hpsts */
+.hosts h1{
+  text-align: center;
+  font-size: 60px;
+  margin: 90px 0;
+}
+
+.host {
+  font-size: 15px;
+  color:#696969;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  line-height: 30px;
+}
+
+.host li {
+  font-size: 15px;
+    color:#696969;
+    padding-bottom: 10px;
+}
+
+.hosts img {
+  width: 100%;
+  size: cover;
+}
+
+
+
+/* simples */
+.simples h1 {
+  text-align: center;
+  font-size: 60px;
+  margin: 90px 0;
+
+}
+
+.simple {
+  margin: 0 auto;
+}
+
+.simple h2 {
+  font-size: 25px;
+
+
+}
+
+.simple p{
+  font-size: 15px;
+  color:#696969;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  line-height: 30px;
+
+}
+
+.simples .ex {
+  margin: auto;
+
+}
+
+.simples .ex .fas {
+  color: orange;
+
+}
+
+.simples .ex p {
+  color:#696969;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  line-height: 30px;
+
+}
+
+.simples .ex a {
+  color:#696969;
+}
+
+
+
+
+/* dreams */
+.dreams h1{
+  text-align: center;
+  font-size: 60px;
+  margin: 90px 0;
+}
+
+.dream h2 {
+  font-size: 40px;
+  font-family: 'alial' sans-serif;
+  color: #696969;
+}
+
+.dreams p {
+  font-size: 15px;
+  color:#696969;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  line-height: 30px;
+}
+
+.dream {
+  margin: 0 auto;
+}
+
+
+
+
+
+/* about */
+.abouts h1{
+  text-align: center;
+  font-size: 60px;
+  margin: 90px 0;
+}
+
+.about h2 {
+  font-size: 20px;
+  font-family: 'alial' sans-serif;
+  color: #696969;
+}
+
+.about p {
+  font-size: 15px;
+  color:#696969;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  line-height: 30px;
+}
+
+.about {
+  margin: 0 auto;
+}
+
+
+
+
+
+/* questions */
+.questions h1{
+  text-align: center;
+  font-size: 60px;
+  margin: 90px 0;
+}
+
+.question{
+  margin: 0 auto;
+}
+
+
+.question li {
+  font-size: 15px;
+  color: royalblue;
+  line-height: 30px;
+  border-bottom: 1px solid #a9a9a9;
+  padding: 10px 0;
+}
+
+
+
+
+/* mores */
+.mores {
+  margin: 100px 0;
+}
+
+.mores h1 {
+  font-size: 25px;
+}
+
+.more h2 {
+  font-size: 20px;
+}
+
+.more {
+  font-size: 15px;
+  margin: 0 auto;
+}
+
+
+
+
+
+/* syunu */
+#aaa {
+    background-color: #fff;
+    padding: 7px 25px;
+    border-radius: 5px;
+    margin-top: 5px;
+    color: #a9a9a9;
+}
+
+
+.syunus {
+  background-image: url(Girl.jpg);
+  height: 500px;
+  margin: 0 100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.syunu {
+  padding: 150px 0;
+}
+
+.syunu h1{
+  color: white;
+  font-size: 50px;
+}
+
+
+
+
+
+
+
+
+/* concluds */
+.concluds {
+  padding-top: 100px;
+}
+
+
+
+.conclud h2 {
+  font-size: 20px;
+  padding-left: 40px;
+}
+
+.conclud a{
+  line-height: 20px;
+  color: #696969;
+}
+
+
+
+
+/* footer */
+footer {
+padding-top: 50px;
+color: #696969;
+}
+
+.left2 {
+  margin-left: 0 50px;
+}
+
+.right2 {
+  margin-right: 0 100px;
+}
+
+.left2 p {
+  margin: 0;
+}
+
+.right2 p {
+  margin: 0;
+}
