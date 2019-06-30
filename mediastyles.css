@@ -1,0 +1,15 @@
+header {
+  height: 100px;
+
+}
+
+
+header .right {
+  float: none;
+  display: inline-block;
+  display: none;
+}
+
+header .left {
+  float: none;
+}
